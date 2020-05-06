@@ -1,3 +1,5 @@
+REMOTE
+
 # GIT-conflict
 
 Objectifs de projets :
